@@ -2,20 +2,20 @@
 
 ## 👤Identitas Mahasiswa 
 -	Nama	: Septiana Putri
--	NIM	  : 2401020
+-	NIM	: 2401020
 -	Kelas	: 2A PSTI
 
 ## 🎓Identitas Kakak Tingkat
--	Nama		      : Risma Yulia Veronica Marpaung
--	Angkatan	    : 21
+-	Nama		: Risma Yulia Veronica Marpaung
+-	Angkatan	: 21
 -	Program Studi	: Pendidikan Sistem dan Teknologi Informasi
 
 ##💡 Permintaan Program
-Pengecek Diskon Belanja
+> Pengecek Diskon Belanja.
 
 ##🧠 Penjelasan Program
-  -	Bahasa pemograman yang digunakan: C
-  -	Fitur utama:
+-	Bahasa pemograman yang digunakan: C
+-	Fitur utama:
   -	Input status member
   -	Input tanggal
   -	Input harga awal
@@ -25,6 +25,7 @@ Pengecek Diskon Belanja
   -	Output total diskon
   -	Output potongan harga
   -	Output total bayar
+
 -	Konsep yang digunakan
   -	Inpu/output
   -	Variable
@@ -34,4 +35,3 @@ Pengecek Diskon Belanja
   -	operator arimatika dan logika
   -	array.
 ## Link Video Demo
-
