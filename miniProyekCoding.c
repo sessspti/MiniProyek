@@ -64,12 +64,12 @@ int main()
         if (tanggal % 2 == 0)
         {
           diskon[i] = kelipatan * 5;
-          printf("Hari ini tanggal GENAP kamu mendapat diskon %d%% \n", diskon[i]);
+          printf("Hari ini tanggal GENAP\n" );
         }
         else
         {
           diskon[i] = kelipatan * 2;
-          printf("Hari ini tanggal GANJIL kamu mendapat diskon %d%% \n", diskon[i]);
+          printf("Hari ini tanggal GANJIL\n");
         }
 
         // jika member diskon akan ditambahkan
@@ -85,6 +85,7 @@ int main()
 
         // pembatasan diskon 50% dengan memanggil fungsi
         diskon[i] = batasDiskon(diskon[i]);
+        printf("Total diskon yang didapat: %d%%\n", diskon[i]);
 
         // perhitungan potongan harga berdasarkan diskon yang diperoleh
         potongan[i] = (hargaAwal[i] * diskon[i]) / 100;
