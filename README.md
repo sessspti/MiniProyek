@@ -2,12 +2,12 @@
 
 ## 👤Identitas Mahasiswa 
 -	Nama	: Septiana Putri
--	NIM  	: 2401020
+-	NIM	: 2401020
 -	Kelas	: 2A PSTI
 
 ## 🎓Identitas Kakak Tingkat
--	Nama	      	: Risma Yulia Veronica Marpaung
--	Angkatan    	: 21
+-	Nama		: Risma Yulia Veronica Marpaung
+-	Angkatan	: 21
 -	Program Studi	: Pendidikan Sistem dan Teknologi Informasi
 
 ## 💡Permintaan Program
@@ -15,7 +15,7 @@
 
 ## 🧠Penjelasan Program
 -	Bahasa pemograman yang digunakan: C
--	Fitur utama          :
+-	Fitur utama:
 -	Input status member
 -	Input tanggal
 -	Input harga awal
@@ -26,12 +26,14 @@
 -	Output potongan harga
 -	Output total bayar
 
--	Konsep yang digunakan  :
+-	Konsep yang digunakan
 -	Inpu/output
 -	Variable
 -	If-else
 -	perulangan (do-while, dan for)
 -	fungsi
 -	operator arimatika dan logika
--	array
+-	array.
 ## Link Video Demo
+https://youtu.be/sg-6Gg99s8E?si=QHMz4glexogDGrxG
+
